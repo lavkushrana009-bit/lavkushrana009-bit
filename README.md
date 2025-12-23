@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 M.Sc. Mathematics & Scientific Computing student<br>📊 Strong foundation in Mathematics, Programming, <br>      and Data Analysis<br>🤖 Aspiring Machine Learning / AI Engineer<br>💻 Passionate about problem-solving, algorithms, <br>      and real-world ML applications
+🎓 M.Sc. Mathematics & Scientific Computing student<br>📊 Strong foundation in Mathematics, Programming, <br>      and Data Analysis<br>🤖 Aspiring Machine Learning / AI <br>💻 Passionate about problem-solving, algorithms, <br>      and real-world ML applications
 
 
 ## 🌐 Socials:
